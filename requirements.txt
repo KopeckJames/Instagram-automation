@@ -1,0 +1,7 @@
+instagrapi1
+requests
+beautifulsoup4
+openpyxl
+python-dotenv
+Pillow
+googleapiclient
